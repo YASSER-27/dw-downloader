@@ -21,6 +21,7 @@ Beyond the terminal, it includes a **Smart Browser Extension** that seamlessly c
 
 ## VIDEO
 
+https://github.com/user-attachments/assets/dc89b4af-ee46-4271-bcbb-cfe113f30901
 
 ---
 
@@ -77,4 +78,5 @@ pip install git+https://github.com/Yassir-Houm/dw-downloader.git
 <p align="center">
 Made with ❤️ by Yassir-Houm
 </p>
+
 
