@@ -1,0 +1,5 @@
+# Required packages for Modern Download Now Script
+
+yt-dlp>=2023.11.16
+questionary>=2.0.1
+rich>=13.7.0
