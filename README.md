@@ -76,7 +76,8 @@ pip install git+https://github.com/Yassir-Houm/dw-downloader.git
 
 ---
 <p align="center">
-Made with ❤️ by Yassir-Houm
+Made with ❤️ by Yassir27
 </p>
+
 
 
