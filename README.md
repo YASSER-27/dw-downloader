@@ -16,7 +16,7 @@ Beyond the terminal, it includes a **Smart Browser Extension** that seamlessly c
 ##  Screenshots
 | Terminal Interface | Smart Browser Extension |
 |:---:|:---:|
-| <img src="dw.png" width="400" alt="Terminal UI"> | <img src="dwd.png" width="400" alt="Browser Extension"> |
+| <img src="dw.png" width="400" alt="Terminal UI"> | <img src="Screenshot.jpg" width="400" alt="Browser Extension"> |
 
 
 ## VIDEO
@@ -78,6 +78,7 @@ pip install git+https://github.com/Yassir-Houm/dw-downloader.git
 <p align="center">
 Made with ❤️ by Yassir27
 </p>
+
 
 
 
